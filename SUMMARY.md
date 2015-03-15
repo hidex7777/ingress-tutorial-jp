@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+- [1. インストールと設定](ch01.md)
