@@ -9,12 +9,13 @@ Ingressの世界へようこそ！
 ぼく（Hideo S.―エージェント名tendreams）の所属**Faction**（陣営）は**Resistance**です。なので、この文章は「これからResistanceのメンバーになる友人」の顔を思い浮かべながら書いています。
 
 この『たのしいIngress』は、GitHubのリポジトリでバージョン管理し、GitBookで電子書籍化しています。もしあなたが**Enlightened**陣営で（あるいはResistanceでも）、別バージョンを作りたいと思ったら、ぜひGitHubリポジトリをForkして、あなたのオリジナルのガイドブックを作ってください。
-ちなみに、ライセンスはCC-BY-NC-SA 4.0に設定しましたが（帰属・非営利・継承）、非営利で（NC）、同じライセンス条件を継承してくれさえすれば（SA）、著作者名は表示しなくてもかまいませんし、タイトルも変えてかまいません（BYは無視していいよ）。できれば本書のGitBookリンクを添えてください。
+
+ちなみに、ライセンスはCC-BY-NC-SA 4.0に設定しましたが（帰属・非営利・継承）、非営利で（NC）、同じライセンス条件を継承してくれさえすれば（SA）、著作者名は表示しなくてもかまいませんし、タイトルも変えてかまいません（BYは無視していいよ）。できれば本書のGitBookリンク（ランディングページへのリンク）を添えてください。
 
 - [GitHubリポジトリ hidex7777/ingress-tutorial-jp](https://github.com/hidex7777/ingress-tutorial-jp)
 - [GitBookの本書ランディングページ](http://hidex7777.gitbooks.io/ingress-tutorial-jp/)
 - [GitBook](https://www.gitbook.com)
 
-Ingressは、日々、システムが更新されていくゲームです。ここに書いてあることが、すぐに古くなることでしょう。もしIngressのシステムに変更があったり、ここに書かれていることが古びていることに気づいたら、ぜひGitHubでIssueを立ててください。GitHubの使い方がわからなければ、**Google+**（Googleプラス）でぼくにメンションを飛ばしてください（Twitterでもいいですよ[@hideocpa](https://twitter.com/hideocpa)）。もちろん、誤字脱字を発見した時も。ぼくは**Ingress Resistance Fukushima**（IRF）に所属しています。すぐに見つけることができるでしょう。
+Ingressは、日々、システムが更新されていくゲームです。ここに書いてあることが、すぐに古くなることでしょう。もしIngressのシステムに変更があったり、ここに書かれていることが古びていることに気づいたら、ぜひGitHubでIssueを立ててください。GitHubの使い方がわからなければ、**Google+**（Googleプラス）でぼくにメンションを飛ばしてください（Twitterでもいいですよ[@hideocpa](https://twitter.com/hideocpa)）。もちろん、誤字脱字を発見した時も。ぼくは**Ingress Resistance Fukushima**（IRF）に所属しています。あなたは、すぐにぼくを見つけることができるでしょう。
 
 ![cover](ingress-cover.png)
