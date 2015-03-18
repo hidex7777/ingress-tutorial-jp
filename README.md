@@ -20,4 +20,4 @@ Ingressの世界へようこそ！
 
 Ingressは、日々、システムが更新されていくゲームです。ここに書いてあることが、すぐに古くなることでしょう。もしIngressのシステムに変更があったり、ここに書かれていることが古びていることに気づいたら、ぜひGitHubでIssueを立ててください。GitHubの使い方がわからなければ、**Google+**（Googleプラス）でぼくにメンションを飛ばしてください（Twitterでもいいですよ[@hideocpa](https://twitter.com/hideocpa)）。もちろん、誤字脱字を発見した時も。ぼくは**Ingress Resistance Fukushima**（IRF）に所属しています。あなたは、すぐにぼくを見つけることができるでしょう。
 
-![cover](ingress-cover.png)
+![cover](assets/ingress-cover.png)
