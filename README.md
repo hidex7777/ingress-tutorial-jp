@@ -20,4 +20,8 @@ Ingressの世界へようこそ！
 
 Ingressは、日々、システムが更新されていくゲームです。ここに書いてあることが、すぐに古くなることでしょう。もしIngressのシステムに変更があったり、ここに書かれていることが古びていることに気づいたら、ぜひGitHubでIssueを立ててください。GitHubの使い方がわからなければ、**Google+**（Googleプラス）でぼくにメンションを飛ばしてください（Twitterでもいいですよ[@hideocpa](https://twitter.com/hideocpa)）。もちろん、誤字脱字を発見した時も。ぼくは**Ingress Resistance Fukushima**（IRF）に所属しています。あなたは、すぐにぼくを見つけることができるでしょう。
 
+そうそう。高橋名人も言っていたように、「取扱説明書」をよく読むことは、あらゆるゲームの基本！　Ingressで「説明書」にあたるのが、[公式のヘルプ](https://support.google.com/ingress)です。読まなくてもできてしまうけれど、読めばなにかとお得ですよ（一部未翻訳）。
+
+- [Ingress公式ヘルプ](https://support.google.com/ingress)
+
 ![cover](assets/ingress-cover.png)
